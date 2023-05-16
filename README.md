@@ -22,7 +22,7 @@ Start of the game: <br/>
 <br />
 <br />
 A player wins the game:  <br/>
-<img src="https://imgur.com/a/6EdQjW4" height="80%" width="80%" alt="TIC-TAC-TOE GAME"/>
+<img src="[https://imgur.com/a/6EdQjW4](https://imgur.com/a/6EdQjW4)" height="80%" width="80%" alt="TIC-TAC-TOE GAME"/>
 <br />
 <br />
 The game ends in a tie: <br/>
