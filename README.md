@@ -17,19 +17,15 @@ I developed a simple tic-tac-toe game using C#, HTML, CSS and JavaScript. The ga
 <h2>Screenshots</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Start of the game: <br/>
+<img src="https://imgur.com/a/NKbFAXO" height="80%" width="80%" alt="TIC-TAC-TOE GAME"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+A player wins the game:  <br/>
+<img src="https://imgur.com/WNFn0vM" height="80%" width="80%" alt="TIC-TAC-TOE GAME"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+The game ends in a tie: <br/>
+<img src="https://imgur.com/a/UcuzK05" height="80%" width="80%" alt="TIC-TAC-TOE GAME"/>
 <br />
 <br />
